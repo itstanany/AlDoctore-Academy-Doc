@@ -1,4 +1,10 @@
-Al Doctor Academy App is a mock for a Learning Hub for High school students in Egypt
+Al Doctor Academy App is a mock for a Learning Hub for High school students at Egypt
+
+You can find it on Google Play Here
+
+<a href='https://play.google.com/store/apps/details?id=com.tananyGeek.aldoctor_academy_app'>
+<img src='https://simplemobiletools.com/images/button-google-play.svg' alt='Get it on Google Play' height='45' />
+</a>
 
 This is a public mirror of a private source code repository
 
@@ -27,9 +33,5 @@ Architecture Diagram for Player Screen
 
 ![Architecture Diagram](https://github.com/tanany365/AlDoctore-Academy-Doc/blob/main/arch.drawio.png?raw=true)
 
-You can find it on Google Play Here
-<a href='https://play.google.com/store/apps/details?id=com.tananyGeek.aldoctor_academy_app'>
-<img src='https://simplemobiletools.com/images/button-google-play.svg' alt='Get it on Google Play' height='45' />
-</a>
 
 

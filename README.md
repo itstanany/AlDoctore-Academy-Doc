@@ -1,9 +1,13 @@
 Al Doctor Academy App is a mock for a Learning Hub for High school students in Egypt
 
 This is a public mirror of a private source code repository
+
 The Goal of this repository is presenting documentation
-<img src="https://github.com/tanany365/AlDoctore-Academy-Doc/blob/main/Aldoctor-app.gif?raw=true" width="320"/>
+
+<img src="https://github.com/tanany365/AlDoctore-Academy-Doc/blob/main/Aldoctor-app.gif?raw=true" width="350"/>
+
 Technology Stack 📚
+
 - [Kotlin](https://kotlinlang.org/) based, [Coroutines](https://github.com/Kotlin/kotlinx.coroutines)  for asynchronous.
 - Jetpack
   - [Compose](https://developer.android.com/jetpack/compose)

@@ -1,6 +1,6 @@
 Al Doctor Academy App is a mock for a Learning Hub for High school students at Egypt
 
-You can find it on Google Play Here
+You can find it on Google Play Here (+100 Downloads)
 
 <a href='https://play.google.com/store/apps/details?id=com.tananyGeek.aldoctor_academy_app'>
 <img src='https://simplemobiletools.com/images/button-google-play.svg' alt='Get it on Google Play' height='45' />
